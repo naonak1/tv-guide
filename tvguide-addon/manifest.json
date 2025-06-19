@@ -1,12 +1,22 @@
 {
   "id": "org.example.tvguide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Channels DVR Guide",
-  "description": "Opens the Channels DVR app's TV Guide",
-  "resources": ["stream"],
+  "description": "Launches Channels DVR app's TV Guide",
+  "resources": [
+    { "name": "stream", "types": ["other"] },
+    { "name": "catalog", "types": ["other"] },
+    { "name": "meta", "types": ["other"] }
+  ],
   "types": ["other"],
   "idPrefixes": ["tvguide"],
-  "catalogs": [],
+  "catalogs": [
+    {
+      "type": "other",
+      "id": "channels",
+      "name": "TV Guide"
+    }
+  ],
   "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/TV_icon_2.svg",
   "behaviorHints": {
     "configurationRequired": false
