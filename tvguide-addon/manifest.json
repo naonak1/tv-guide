@@ -1,12 +1,13 @@
 {
   "id": "org.example.tvguide",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "Channels DVR Guide",
   "description": "Launches Channels DVR app's TV Guide",
   "resources": [
     { "name": "stream", "types": ["other"] },
     { "name": "catalog", "types": ["other"] },
-    { "name": "meta", "types": ["other"] }
+    { "name": "meta", "types": ["other"] },
+    { "name": "resolve", "types": ["other"] }
   ],
   "types": ["other"],
   "idPrefixes": ["tvguide"],
