@@ -1,0 +1,14 @@
+{
+  "id": "org.example.tvguide",
+  "version": "1.0.0",
+  "name": "Channels DVR Guide",
+  "description": "Opens the Channels DVR app's TV Guide",
+  "resources": ["stream"],
+  "types": ["other"],
+  "idPrefixes": ["tvguide"],
+  "catalogs": [],
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/TV_icon_2.svg",
+  "behaviorHints": {
+    "configurationRequired": false
+  }
+}
