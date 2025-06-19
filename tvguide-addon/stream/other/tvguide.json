@@ -2,7 +2,7 @@
   "streams": [
     {
       "title": "Open Channels DVR Guide",
-      "url": "channels://navigate/Guide"
+      "url": "https://naonak1.github.io/tv-guide/tvguide-addon/launch.html"
     }
   ]
 }

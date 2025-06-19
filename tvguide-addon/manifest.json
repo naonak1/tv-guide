@@ -1,6 +1,6 @@
 {
   "id": "org.example.tvguide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Channels DVR Guide",
   "description": "Launches Channels DVR app's TV Guide",
   "resources": [
