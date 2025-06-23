@@ -12,7 +12,7 @@
   "idPrefixes": ["channelsguide"],
   "catalogs": [
     {
-      "type": "movie",
+      "type": "other",
       "id": "channels",
       "name": "TV Guide"
     }
