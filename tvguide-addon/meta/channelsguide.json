@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "channelsguide",
+    "type": "movie",
+    "name": "Channels DVR Guide",
+    "poster": "https://tse1.mm.bing.net/th?id=OIP.ZeUaLYKAKciBtozkvKe7dAHaE_&pid=Api",
+    "background": "https://tse1.mm.bing.net/th?id=OIP.ZeUaLYKAKciBtozkvKe7dAHaE_&pid=Api",
+    "description": "A bright and fun way to jump into the Channels DVR Guide",
+    "genres": ["TV", "Live", "Guide"],
+    "runtime": 1,
+    "releaseInfo": "2025",
+    "videos": [
+      {
+        "id": "channelsguide",
+        "title": "Open Channels Guide",
+        "released": "2025-01-01"
+      }
+    ]
+  }
+}
